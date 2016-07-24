@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/tiered-numbering-headers-md",
+  "repository": "https://github.com/K90j1/tiered-numbering-headers-md",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
